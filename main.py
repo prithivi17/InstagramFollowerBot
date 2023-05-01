@@ -6,5 +6,5 @@ bot = InstaFollower(CHROME_DRIVER_PATH)
 bot.login()
 bot.find_followers()
 bot.follow()
-Py
+
 
